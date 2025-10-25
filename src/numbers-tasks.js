@@ -182,7 +182,7 @@ function roundToPowerOfTen(num, pow) {
 }
 
 /**
- * Returns true is the number is prime; otherwise false.
+ * Returns true if the number is prime; otherwise false.
  * See: https://en.wikipedia.org/wiki/Primality_test
  *
  * @param {number} n
